@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name necroware)(type KiCad)(uri /home/scorp/Projects/necroware/isa-prototyping-board/kicad/lib/Necroware.pretty)(options "")(descr ""))
+)
